@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\bin\Debug\Analytica_Lada.exe.config
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\bin\Debug\Analytica_Lada.exe
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\bin\Debug\Analytica_Lada.pdb
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.Form1.resources
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.Properties.Resources.resources
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.csproj.GenerateResource.Cache
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.exe
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.pdb
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.Form2.resources
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.Form3.resources
+C:\Users\1\source\repos\Analytica_Lada\Analytica_Lada\obj\Debug\Analytica_Lada.Form4.resources
